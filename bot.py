@@ -29,7 +29,7 @@ async def on_ready():
 async def loop_message(channel):
     print("Looping started.")
     while looping:
-        message = await channel.send("?clan XWbaftbvmk Global <:gold:413758059152670720><:diamond:413758091088232449> \n\n =========== SAVED #2023 =========== \n\n Join Saved #2023: The premier critical ops community to showcase your __clips, share lineups, and connect with awesome people__. Experience the ultimate gaming camaraderie now! \n __We are looking for:__ \n• Community \n • Mods \n • Partnership \n\n __We offer:__ \n • giveaway \n • Host room \n • Inner Scrim (to improve your skills and awareness) \n ")
+        message = await channel.send("?clan XWbaftbvmk Global <:iron:722815048162082866><:silver:413758042178453505><:gold:413758059152670720><:platinum:413758071647764481><:diamond:413758091088232449><:master:413758106720403476><:specops:578481756919824404><:eliteops:578481871852404747> \n\n =========== SAVED #2023 =========== \n\n Join Saved #2023: The premier critical ops community to showcase your __clips, share lineups, and connect with awesome people__. Experience the ultimate gaming camaraderie now! \n __We are looking for:__ \n• Community \n • Mods \n • Partnership \n\n __We offer:__ \n • giveaway \n • Host room \n • Inner Scrim (to improve your skills and awareness) \n")
         print(f"Message sent: {channel_id}")
         await asyncio.sleep(3600)
     print("Looping stopped.")
