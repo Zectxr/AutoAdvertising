@@ -1,5 +1,5 @@
 # AutoAdvertising
-This code is a Python script that utilizes the Discord.py library to create a self-bot for Discord. A self-bot is a Discord account that functions as a bot, but it's important to note that using self-bots is against Discord's terms of service.
+This code is a Python script that use  the Discord.py library to create a self-bot for Discord. A self-bot is a Discord account that functions as a bot, but it's important to note that using self-bots is against Discord's terms of service.
 
 The purpose of this script is to automate advertising for Critical Ops, a popular game. By leveraging the self-bot capabilities, the script sends promotional messages to Discord channels in order to attract more members to a specific community or server related to Critical Ops.
 
